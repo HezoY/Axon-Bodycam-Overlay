@@ -12,3 +12,6 @@ F10 - Show/Hide Overlay
 Program save last position and size of overlay (If you dont delete settings.json), so you don't have to set it up every time you start the program.
 
 Next update? What added? How long? You can expect more features and improvements in the future. If you have any suggestions or feedback, feel free to open an issue on GitHub.
+
+IMPORTANT!
+The program requires 28–35 MB of RAM, depending on its options and features. I want to minimize the program's resource usage, so I am doing everything I can to keep memory consumption as low as possible.
