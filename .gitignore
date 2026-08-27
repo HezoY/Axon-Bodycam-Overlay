@@ -3,3 +3,7 @@
 .github
 build/
 dist/
+settings.json
+.vscode/
+CPP/
+AxonBodycamOverlay.spec
